@@ -1,0 +1,11 @@
+class;type;text;moneyORlocation
+chance;CardMove;Xreiazesai ena biblio! Pigaine stin Kentriki Bibliothiki!;37
+chance;CardMove;Irthe to kalokairi! Pigaine sto Poseidi!;20
+chance;CardMoney;Prepei na ananeoseis tin karta diadromon. Dose 100 eyro!;-100
+chance;CardMove;Ora gia bolta.. Pigaine sto kylikeio Filosofikis!;5
+chance;CardMoney;Den akouses to xypnitiri kai exeis mathima! Dose 50 eyro gia taxi!;-50
+chance;CardMoney;Pires ypotrofia 200 eyro!!;200
+chance;CardMove;Ora gia dialeimma! Pigaine sto kylikeio tou polytexneiou!;15
+chance;CardMoney;Kathysterises na epistrepseis ena biblio.. Prostimo 20 eyro!;-20
+chance;CardMove;Exei glenti sti foititiki lesxi! Pigaine amesos!;21
+chance;CardMoney;Epilextikes gia praktiki askisi! Pare 50 eyro!;50
