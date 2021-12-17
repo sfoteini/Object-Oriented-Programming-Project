@@ -1,0 +1,41 @@
+Id;Name;Type;ActionText;PropertyCost;HouseCost;Rent0;Rent1;Rent2;Rent3;Rent4;Rent5;Tax;Category
+0;GO!;START;Pare $200;;;;;;;;;;
+1;Asteroskopeio;Property;$60;60;50;2;10;30;90;160;250;;Dark Purple
+2;Apofasi;CommunityChest;Pare mia karta;;;;;;;;;;
+3;Ktirio Metewrologias;Property;$60;60;50;4;20;60;180;320;450;;Dark Purple
+4;Foros Eisodimatos;Tax;Plirwse $100;;;;;;;;;100;
+5;Kylikeio Filosofikis;RailRoad;$200;200;;25;50;100;200;;;;
+6;Filosofiki Sxoli;Property;$100;100;50;6;30;90;270;400;550;;Light Blue
+7;Entoli;Chance;Pare mia karta;;;;;;;;;;
+8;Nomiki Sxoli;Property;$100;100;50;6;30;90;270;400;550;;Light Blue
+9;THeologiki Sxoli;Property;$120;120;50;8;40;100;300;450;600;;Light Blue
+10;EXETASTIKI;Jail;TOYRISTAS;;;;;;;;;;
+11;Sxoli Gewponias;Property;$140;140;100;10;50;150;450;625;750;;Pink
+12;Grafeio Erasmus;Utility;$150;150;;4;10;;;;;;
+13;STHE;Property;$140;140;100;10;50;150;450;625;750;;Pink
+14;Paidagwgiki Sxoli;Property;$160;160;100;12;60;180;500;700;900;;Pink
+15;Kylikeio Polytexneiou;RailRoad;$200;200;;25;50;100;200;;;;
+16;TEFAA;Property;$180;180;100;14;70;200;550;750;950;;Orange
+17;Apofasi;CommunityChest;Pare mia karta;;;;;;;;;;
+18;Tmima THeatrou;Property;$180;180;100;14;70;200;550;750;950;;Orange
+19;Tmima Mousikwn Spoudwn;Property;$200;200;100;16;80;220;600;800;1000;;Orange
+20;POSEIDI;FreeParking;;;;;;;;;;;
+21;Foititiki Lesxi;Property;$220;220;150;18;90;250;700;875;1050;;Red
+22;Entoli;Chance;Pare mia karta;;;;;;;;;;
+23;Gymnastirio;Property;$220;220;150;18;90;250;700;875;1050;;Red
+24;Ktirio Dioikisis;Property;$240;240;150;20;100;300;750;925;1100;;Red
+25;Kylikeio Paidagwgikou;RailRoad;$200;200;;25;50;100;200;;;;
+26;Tmima Ktiniatrikis;Property;$260;260;150;22;110;330;800;975;1150;;Yellow
+27;Tmima Odontiatrikis;Property;$260;260;150;22;110;330;800;975;1150;;Yellow
+28;Grafeio Diasyndesis;Utility;$150;150;;4;10;;;;;;
+29;Tmima Iatrikis;Property;$280;280;150;24;120;360;850;1025;1200;;Yellow
+30;PIGAINE STIN EXETASTIKI;GoJail;;;;;;;;;;;
+31;Tmima Arxitektonwn;Property;$300;300;200;26;130;390;900;1100;1275;;Green
+32;Tmima Pol. Mixanikwn;Property;$300;300;200;26;130;390;900;1100;1275;;Green
+33;Apofasi;CommunityChest;Pare mia karta;;;;;;;;;;
+34;Tmima IMMY;Property;$320;320;200;28;150;450;1000;1200;1400;;Green
+35;Kylikeio Nomikis;RailRoad;$200;200;;25;50;100;200;;;;
+36;Entoli;Chance;Pare mia karta;;;;;;;;;;
+37;Kentriki Bibliothiki;Property;$350;350;200;35;175;500;1100;1300;1500;;Dark Blue
+38;Foros Polyteleias;Tax;Plirwse $200;;;;;;;;;200;
+39;Aithousa Teletwn;Property;$400;400;200;50;200;600;1400;1700;2000;;Dark Blue
